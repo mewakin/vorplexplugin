@@ -1,0 +1,5 @@
+me\mewakin\tntshooter\Main.class
+me\mewakin\tntshooter\commands\TntshooterCommands.class
+me\mewakin\tntshooter\items\ItemManager.class
+me\mewakin\tntshooter\commands\SpawnWandCommand.class
+me\mewakin\tntshooter\events\WandEvents.class

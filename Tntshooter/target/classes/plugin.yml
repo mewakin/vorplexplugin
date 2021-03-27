@@ -1,0 +1,10 @@
+name: Tntshooter
+version: 1.0-SNAPSHOT
+main: me.mewakin.tntshooter.Main
+api-version: 1.16
+
+commands:
+  spawnwand:
+    description: Spawns the fireball wand.
+  tntshooter:
+    usage: /command [arg(s)]
